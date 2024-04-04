@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielyj147&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
