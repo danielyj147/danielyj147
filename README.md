@@ -1,3 +1,69 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    line-height: 1.3;
+    max-width: 8.5in;
+    margin: 0 auto;
+  }
+  h1 { 
+    font-size: 18pt; 
+    margin-bottom: 0.2em; 
+    margin-top: 0.5em;
+  }
+  h2 { 
+    font-size: 14pt; 
+    margin-top: 0.8em; 
+    margin-bottom: 0.3em; 
+    border-bottom: 1px solid #999;
+    padding-bottom: 0.1em;
+  }
+  h3 { 
+    font-size: 12pt; 
+    margin-bottom: 0.2em; 
+    margin-top: 0.5em;
+  }
+  p, ul { 
+    margin: 0 0 0.3em 0; 
+  }
+  ul { 
+    padding-left: 1.5em; 
+  }
+  .header { 
+    text-align: center; 
+    margin-bottom: 0.5em; 
+  }
+  .subheader { 
+    font-size: 10pt; 
+  }
+  .section {
+    margin-bottom: 0.7em;
+  }
+  .job-title {
+    font-weight: bold;
+  }
+  .job-details {
+    font-style: italic;
+    color: #555;
+  }
+  .quote {
+    width: 80%;
+    margin: 1em auto;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+  }
+  .github-stats {
+    display: flex;
+    justify-content: center;
+    margin: 1em 0;
+  }
+  .github-stats img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 <p align="center">
   <a href="https://github.com/danielyj147">
     <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Full-stack%20Web%20Developer;English%2FKorean%20Speaker;5%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -7,26 +73,17 @@
     <img alt="Wion" title="Wion Website" src="https://www.wion237.com/_next/static/media/wion_intro.77289102.svg" width=70 /></a> 
 </h2>
   
-<p align="center">
-  <h3>"Always code as if the person maintaining your code will be a
-  violent psychopath who knows where you live."</h3>
-  — John F. Woods, 1991
-</p>
-
+<div class="quote">
+  <h3>"Always code as if the person maintaining your code will be a violent psychopath who knows where you live."</h3>
+  <p>— John F. Woods, 1991</p>
+</div>
 
 <br/>
-
- 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="danielyj147's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-  
+<div class="github-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="danielyj147's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</div>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielyj147's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielyj147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
