@@ -1,28 +1,16 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/danielyj147">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Full-stack%20web%20developer;English%2FKorean%20Speaker;5%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Full-stack%20Web%20Developer;English%2FKorean%20Speaker;5%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<h2 align="center"> Developer of <a href="https://www.wion237.com">
+    <img alt="Wion" title="Wion Website" src="https://www.wion237.com/_next/static/media/wion_intro.77289102.svg" width=70 /></a> 
+</h2>
+  
 <p align="center">
-
-<h2> Developer of <a href="https://www.wion237.com">
-    <img alt="Wion" title="Wion Website" src="https://www.wion237.com/_next/static/media/wion_intro.77289102.svg" width=70 /></a> </h2>
-    
-</p>
-
-<p align="center">
-<p align="center">
-
-> <h3>"Always code as if the guy who ends up maintaining your code will be a
-> violent psychopath who knows where you live."</h3>
-> 
-> — John F. Woods, 1991
-</p>
-
-<p align="center">
-
-
+  <h3>"Always code as if the person maintaining your code will be a
+  violent psychopath who knows where you live."</h3>
+  — John F. Woods, 1991
 </p>
 
 
@@ -33,10 +21,8 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="danielyj147's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
@@ -45,159 +31,152 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="danielyj147's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielyj147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center">
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="danielyj147's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=danielyj147&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  </p> -->
 
-  
-<!-- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="danielyj147's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danielyj147&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-</p> -->
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+# 🛠️ My Detailed Technical Toolkit
 
-  <h3>
-🔀 Version Control Systems + CI/CD
-  </h3>
+## 🖥️ Core Technologies
 
-<p style="display: flex; flex-direction: column; align-items: center; height: 100%; margin: 0;">
-  <div>
-      <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Developed and led Git workshop and branching strategy curriculum. 
-      </span>
-  </div>
-  <div>
-      <img alt="Gitea" src="https://img.shields.io/badge/Gitea-34495E.svg?logo=Gitea&logoColor=5D9425" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Locally hosted and maintained a company-wide Gitea server.
-      </span>
-  </div>
-  <div>
-      <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%23181717.svg?logo=gitlab&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Led a company's version control system transition from Gitea to Gitlab.
-      </span>
-  </div>
-  <div>
-      <img alt="Github" src="https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Personal choice of DVCS. WION project is currently managed through Github.
-      </span>
-  </div>
-  <div>
-      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=Jenkins&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-       Locally hosted and mainteained company-wide Jenkins server. I was in charge of automating build, test and deployment for my team's project. 
-      </span>
-  </div>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white)
 
-  <h3>👨‍💻 Programming Language & Frameworks</h3>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?logo=FastAPI&logoColor=white)
+![django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52.svg?logo=qt&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
 
-<p style="display: flex; flex-direction: column; align-items: center; height: 100%; margin: 0;">
-  <div>
-      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" style="vertical-align: middle;">
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?logo=FastAPI&logoColor=white" style="vertical-align: middle;">
-      <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white" style="vertical-align: middle;">
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Developed & served malicious action(logs) detection ML model. 
-      </span>
-  </div>
-  <div>
-      <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" style="vertical-align: middle;">
-      <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" style="vertical-align: middle;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" style="vertical-align: middle;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" style="vertical-align: middle;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" style="vertical-align: middle;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" style="vertical-align: middle;">
-      <span style="margin-left: 10px; vertical-align: middle;">
-        Developed multiple web applications including WION, Situational awareness solution for security operations centers(SOC), Authentication & Authorization management system etc.
-      </span>
-  </div>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  </p>
+- Developed a malicious activity detection model using Python and PyTorch, capable of processing over 1 million offense entries daily.
+- Cooperated with SIEM operators and SOC analysts to build a real-time situational awareness dashboard for SOC using Next.js, React and TypeScript.
+- Developed an android app and server for OTP authentication with Java, Spring Boot and FCM
+- Created a desktop application for log analysis, labeling and incident report using PyQt.
+- Currently in development of [WION](https://www.wion237.com) with Next.js, MongoDB, and Tailwind stack
 
+## 🔀 Version Control & CI/CD
 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-%23181717.svg?logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-34495E.svg?logo=Gitea&logoColor=5D9425)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=Jenkins&logoColor=white)
 
-  <h3>
-🐳 Hypervisor & Virtual Machine
-  </h3>
-      <a href="#"><img alt="react" src="https://img.shields.io/badge/VMware ESXi-0095D3.svg?logo=VMware&logoColor=white"></a>
-      <a href="#"><img alt="react" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+- Led a department-wide Git workshop, training 7 developers on advanced branching strategies and conflict resolution.
+- Orchestrated a version control migration from Gitea to GitLab for a team of 15, maintaining 100% code integrity.
+- Set up a Jenkins pipeline integrated with realtime Slack alert that reduced deployment time from 1 hours to 15 minutes and caught 95% of bugs before production.
 
+## 🐳 DevOps & Infrastructure
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware%20ESXi-0095D3.svg?logo=VMware&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1.svg?logo=traefik&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70.svg?logo=letsencrypt&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2B3539.svg?logo=gunicorn&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black)
 
-  <h3>🧰 Miscellaneous(yet important) Frameworks and Libraries</h3>
+- Containerized an application into 8 microservices using Docker, improving deployment flexibility and scaling.
+- Configured a VMware ESXi server to host company-wide GitLab, with 99.9% uptime.
+- Implemented a Traefik reverse proxy with automatic SSL renewal via Let's Encrypt, securing 5+ internal services.
 
-  <p>
-      <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+## 🗄️ Databases & Cloud Services
 
-  </p>
-pyqt,
-grafana
-QRadar
-SumoLogic
-Arch Linux
-Nginx
-Uvicorn
-OpenCV
-SK-learn
-Nginx, Traefik - Let’s Encrypt, 리버스 프록시 구축 경험, 
-Sass
-Java - SpringBoot, JPA, Lombok
-로그분석 ChatGPT Assistant 생성 경험
-IBM 왓슨과 ChatGPT-4 연구 및 비교분석
-flask: Gitea, Gitlab Slack message MR/PR notification integration, integrated with OpenAI’s ChatGPT api to assist code review.
-Firebase
-  <h3>🗄️ Databases/Cache and Cloud Hosting</h3>
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Images-F38020.svg?logo=Cloudflare&logoColor=white)
 
-  <p>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="Atlas" title="Atlas" src="https://img.shields.io/badge/Atlas-4ea94b.svg?logo=mongodb&logoColor=white"/></a>
-      <a href="#"><img alt="Cloudflare Images" title="Cloudflare Images" src="https://img.shields.io/badge/Cloudflare%20Images-F38020.svg?logo=Cloudflare&logoColor=white"/></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
+- Designed MongoDB schemas for an online social network.
+- Designed MariaDB schemas for a log management system, optimized for data integrity and consistency.
+- Utilized Redis to cache frequently accessed statistics and analytics, reducing database load by 10%.
 
-  </p>
+## 📊 Data Analysis & AI/ML
 
-  <h3>📝 Documentation Tools & Languages</h3>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?logo=ibm-watson&logoColor=white)
 
-  <p>
-      <a href="#"><img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-025E8C.svg?logo=sphinx&logoColor=white"></a>
-      <a href="#"><img alt="docusaurus" src="https://img.shields.io/badge/Docusarus-2EC866.svg?logo=docusaurus&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="MDX" src="https://img.shields.io/badge/MDX-000000.svg?logo=MDX&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+- Developed a custom ChatGPT-powered log analysis assistant to aid manual analysis.
+- Conducted a comparative study between IBM Watson and ChatGPT-4, identifying specific use cases where each excels in cybersecurity applications.
+- Implemented an anomaly detection system using scikit-learn.
+
+## 🛡️ Security & Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white)
+![QRadar](https://img.shields.io/badge/QRadar-052FAD.svg?logo=ibm&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-000099.svg?logo=sumo-logic&logoColor=white)
+
+- Created custom Grafana dashboards for real-time monitoring of system health and security events integrated with QRadar.
+- Integrated QRadar with custom log sources, opensource threat inteligence(such as Alien Vault) and opensource SIEM rule repository to improve user experience.  
+- Integrated Sumo Logic Cloud SIEM with a custom dashboard and rule management solution. 
+
+## 🧰 Additional Tools & Frameworks
+
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)
+![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
+
+## 📝 Documentation & API Tools
+
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-000000.svg?logo=MDX&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-025E8C.svg?logo=sphinx&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusarus-2EC866.svg?logo=docusaurus&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+
+- Created comprehensive API documentation using OpenAPI/Swagger, and used the documentation with App Scan(a web security testing tool by IBM/HCL) to proactively find vulnerabilities and bugs. 
+- Developed an internal knowledge base using Docusaurus, consolidating information from multiple sources and reducing onboarding time by 30%.
+- Experienced in writing a data analysis and report using LaTeX,R and Sweave
+
+## 💻 Operating Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-1793D1.svg?logo=microsoft&logoColor=white)
+![macos](https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white)
+
+Has dual citizenship SouthKorea/US
+
+To fulfill Korean compulsory military service, worked on cyber secuirty solution development. 
+
+Korean Government Issued Resaerches
+Development of an AI-based SOC System for Enhancing Security in the Post-COVID Era(2023)
+Deep Learning-based Technology for Automatic Patching of Source Code Vulnerabilities(2022)
 
 
+Patents Registered in Korea
+Registeed - AI 기반 소스코드의 보안 취약점 개선을 위한 소스코드 추천 방법, 장치 및 프로그램(AI-BASED METHOD, APPARATUS AND PROGRAM FOR SOURCE CODE RECOMMENDATION FOR IMPROVING SECURITY VULNERABILITIES)
+
+Registered - 함수 및 매개변수의 명칭을 자동으로 변경하는 방법, 장치 및 프로그램(METHOD, APPARATUS AND PROGRAM FOR AUTOMATICALLY CHANGING NAMES OF FUNCTIONS AND PARAMETERS)
+
+Registered - AI 기반 소스코드의 보안 취약점 검출 방법, 장치 및 프로그램(AI-BASED METHOD, APPARATUS AND PROGRAM FOR DETECTING SECURITY VULNERABILITIES IN SOURCE CODE)
 
 
-  </p>
-  <h3>💻 Software and Tools</h3>
+---
 
-  <p>
-      <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
 
-Credit to [Jonah Lawrence](https://github.com/DenverCoder1) for creating 
+*Credit to [Jonah Lawrence](https://github.com/DenverCoder1)*
