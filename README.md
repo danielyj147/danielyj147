@@ -159,23 +159,6 @@
 ![Windows](https://img.shields.io/badge/Windows-1793D1.svg?logo=microsoft&logoColor=white)
 ![macos](https://img.shields.io/badge/MacOS-000000.svg?logo=macos&logoColor=white)
 
-Has dual citizenship SouthKorea/US
-
-To fulfill Korean compulsory military service, worked on cyber secuirty solution development. 
-
-Korean Government Issued Resaerches
-Development of an AI-based SOC System for Enhancing Security in the Post-COVID Era(2023)
-Deep Learning-based Technology for Automatic Patching of Source Code Vulnerabilities(2022)
-
-
-Patents Registered in Korea
-Registeed - AI 기반 소스코드의 보안 취약점 개선을 위한 소스코드 추천 방법, 장치 및 프로그램(AI-BASED METHOD, APPARATUS AND PROGRAM FOR SOURCE CODE RECOMMENDATION FOR IMPROVING SECURITY VULNERABILITIES)
-
-Registered - 함수 및 매개변수의 명칭을 자동으로 변경하는 방법, 장치 및 프로그램(METHOD, APPARATUS AND PROGRAM FOR AUTOMATICALLY CHANGING NAMES OF FUNCTIONS AND PARAMETERS)
-
-Registered - AI 기반 소스코드의 보안 취약점 검출 방법, 장치 및 프로그램(AI-BASED METHOD, APPARATUS AND PROGRAM FOR DETECTING SECURITY VULNERABILITIES IN SOURCE CODE)
-
-
 ---
 
 
