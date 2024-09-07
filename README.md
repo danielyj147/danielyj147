@@ -64,7 +64,7 @@
   <div>
       <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" style="vertical-align: middle;">
       <span style="margin-left: 10px; vertical-align: middle;">
-        Developed and led Git workshop & branching strategy curriculum. 
+        Developed and led Git workshop and branching strategy curriculum. 
       </span>
   </div>
   <div>
@@ -82,13 +82,13 @@
   <div>
       <img alt="Github" src="https://img.shields.io/badge/Github-%23181717.svg?logo=github&logoColor=white" style="vertical-align: middle;">
       <span style="margin-left: 10px; vertical-align: middle;">
-        Personal choice of cloud-based DVCS
+        Personal choice of DVCS. WION project is currently managed through Github.
       </span>
   </div>
   <div>
       <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=Jenkins&logoColor=white" style="vertical-align: middle;">
       <span style="margin-left: 10px; vertical-align: middle;">
-       With Gitea, automated build, test and deployment.
+       Locally hosted and mainteained company-wide Jenkins server. I was in charge of automating build, test and deployment for my team's project. 
       </span>
   </div>
 </p>
@@ -105,14 +105,20 @@
         Developed & served malicious action(logs) detection ML model. 
       </span>
   </div>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <div>
+      <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" style="vertical-align: middle;">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" style="vertical-align: middle;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" style="vertical-align: middle;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" style="vertical-align: middle;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" style="vertical-align: middle;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" style="vertical-align: middle;">
+      <span style="margin-left: 10px; vertical-align: middle;">
+        Developed multiple web applications including WION, Situational awareness solution for security operations centers(SOC), Authentication & Authorization management system etc.
+      </span>
+  </div>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
 
@@ -125,10 +131,9 @@
 
 
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 Miscellaneous(yet important) Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
@@ -137,12 +142,25 @@
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
 
   </p>
-
+pyqt,
+grafana
+QRadar
+SumoLogic
+Arch Linux
+Nginx
+Uvicorn
+OpenCV
+SK-learn
+Nginx, Traefik - Let’s Encrypt, 리버스 프록시 구축 경험, 
+Sass
+Java - SpringBoot, JPA, Lombok
+로그분석 ChatGPT Assistant 생성 경험
+IBM 왓슨과 ChatGPT-4 연구 및 비교분석
+flask: Gitea, Gitlab Slack message MR/PR notification integration, integrated with OpenAI’s ChatGPT api to assist code review.
+Firebase
   <h3>🗄️ Databases/Cache and Cloud Hosting</h3>
 
   <p>
@@ -154,6 +172,7 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
+
   </p>
 
   <h3>📝 Documentation Tools & Languages</h3>
