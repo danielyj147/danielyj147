@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/danielyj147">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Full-stack%20Web%20Developer;English%2FKorean%20Speaker;5%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Full-stack%20Web%20Developer;English%2FKorean%20Speaker;2%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h2 align="center"> Developer of <a href="https://www.wion237.com">
