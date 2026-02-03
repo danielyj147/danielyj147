@@ -92,7 +92,7 @@ Founding engineer at a cybersecurity startup where I helped build [Sentinelle](h
 - Created Grafana dashboards for real-time security event monitoring integrated with QRadar
 - Participated in on-call rotation for production incident response
 
-**Patents (3 Registered)**
+**Patents**
 - [KR102749050B1](https://patents.google.com/patent/KR102749050B1/en) — ML-based security threat prioritization using real-time SIEM data streams
 - [KR102744022B1](https://patents.google.com/patent/KR102744022B1/en) — Attack pattern visualization and analysis for security operations
 - [KR102794551B1](https://patents.google.com/patent/KR102794551B1/en) — Automated log data transformation into standardized formats
