@@ -35,8 +35,6 @@ Founding engineer at a cybersecurity startup where I helped build [Sentinelle](h
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 ## 🔧 Frameworks & Libraries
 
@@ -50,9 +48,6 @@ Founding engineer at a cybersecurity startup where I helped build [Sentinelle](h
 ## ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900.svg?logo=aws-lambda&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900.svg?logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31.svg?logo=amazon-s3&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-FF4F8B.svg?logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
@@ -71,14 +66,12 @@ Founding engineer at a cybersecurity startup where I helped build [Sentinelle](h
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazon-dynamodb&logoColor=white)
 
 ## 📊 AI/ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 
@@ -129,7 +122,6 @@ Daily pipeline pulling financial data, computing moving averages, triggering ale
 ## 🔀 Version Control & CI/CD
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=Jenkins&logoColor=white)
