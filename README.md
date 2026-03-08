@@ -1,3 +1,8 @@
+<p align="center">
+  <em>"Always code as if the person maintaining your code will be a violent psychopath who knows where you live."</em>
+  <br/>— John F. Woods, 1991
+</p>
+
 <h1 align="center">
   <a href="https://github.com/danielyj147">
     <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Security%20%26%20Full-Stack%20Engineer;3%20Patents%20in%20ML%20Threat%20Detection;&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=24" />
@@ -5,7 +10,17 @@
 </h1>
 
 <p align="center">
-  <em>Founding engineer at a cybersecurity startup. 3 patents. CS @ Colgate '26.</em>
+  <em>3 patents. CS @ Colgate '26.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielyj147&style=flat-square&color=f75c7e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/danielyj147?style=flat-square&color=F8D866&label=total%20stars" alt="Total Stars" />
+</p>
+
+<!-- Total contributions counter -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -22,13 +37,26 @@
 
 ---
 
+<details>
+<summary><h3>Who is this guy? (click to expand)</h3></summary>
+
+<br/>
+
+> Founding engineer (3rd hire) at a cybersecurity startup where I helped build **Sentinelle** — a threat detection platform now deployed at the **National Election Commission of South Korea**. I hold 3 Korean patents in ML-based security. Currently finishing my CS degree at Colgate.
+
+> I've built real-time collaborative tools, serverless pipelines, campus infrastructure apps, and AI-powered utilities. I care about writing code that works under pressure — the kind that survives building fires (literally, we recovered 100% of our data).
+
+</details>
+
+---
+
 ## What I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Overwatch](https://github.com/danielyj147/overwatch) &nbsp; [![Live](https://img.shields.io/badge/-live-f75c7e)](https://overwatch.danielyj.com)
+### [Overwatch](https://overwatch.danielyj.com) &nbsp; [![Live](https://img.shields.io/badge/-live-f75c7e)](https://overwatch.danielyj.com) [![Code](https://img.shields.io/badge/-code-181717?logo=github)](https://github.com/danielyj147/overwatch)
 
 **Real-time collaborative mapping platform**
 
@@ -52,13 +80,13 @@ Founding engineer (3rd hire). Built ML threat detection pipeline processing 1M+ 
 <tr>
 <td width="50%" valign="top">
 
-### [Marketwatch](https://github.com/danielyj147/marketwatch)
+### [Navgate](https://github.com/danielyj147/navgate)
 
-**Serverless forex tracking pipeline**
+**Real-time campus parking & shuttle tracker**
 
-Daily pipeline pulling financial data, computing moving averages, triggering alerts on threshold events via SNS.
+Interactive map with live shuttle positions, time-aware parking lot availability, geolocation, search/filtering, and dark mode. Solves a real problem for Colgate students.
 
-`Python` `AWS Lambda` `SNS` `Pandas`
+`Next.js` `TypeScript` `React Leaflet` `Peak Transit API`
 
 </td>
 <td width="50%" valign="top">
@@ -84,19 +112,6 @@ Benchmarking and analysis of large language models.
 | 1 | ML-based security threat prioritization using real-time SIEM data | [KR102749050B1](https://patents.google.com/patent/KR102749050B1/en) |
 | 2 | Attack pattern visualization and analysis for security operations | [KR102744022B1](https://patents.google.com/patent/KR102744022B1/en) |
 | 3 | Automated log data transformation into standardized formats | [KR102794551B1](https://patents.google.com/patent/KR102794551B1/en) |
-
----
-
-## Impact
-
-```
-Security     Built ML threat detection pipeline → 95% accuracy across 1M+ daily events
-DevOps       Jenkins CI/CD with Slack alerts → deployment time from 1hr to 15min
-Infra        Containerized 8 microservices, VMware ESXi GitLab server → 99.9% uptime
-Disaster     Full recovery after building fire using 3-2-1 backup strategy
-Cloud        Real-time analytics with Kinesis + Lambda, AI chatbot with Bedrock RAG
-Teaching     Trained WorldSkills competitors in AWS architecture & networking
-```
 
 ---
 
@@ -142,14 +157,5 @@ Teaching     Trained WorldSkills competitors in AWS architecture & networking
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=danielyj147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <em>"Always code as if the person maintaining your code will be a violent psychopath who knows where you live."</em>
-  <br/>— John F. Woods, 1991
 </p>
