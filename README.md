@@ -1,10 +1,3 @@
-<p align="center">
-  <em>"Always code as if the person maintaining your code will be a violent psychopath who knows where you live."</em>
-  <br/>— John F. Woods, 1991
-</p>
-
-<br/>
-
 <h1 align="center">
   <a href="https://github.com/danielyj147">
     <img src="https://readme-typing-svg.demolab.com/?lines=Daniel%20Jeong;Security%20%26%20Full-Stack%20Engineer;3%20Patents%20in%20ML%20Threat%20Detection;&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=24" />
@@ -12,7 +5,8 @@
 </h1>
 
 <p align="center">
-  3 patents &nbsp;·&nbsp; CS @ Colgate '26
+  <em>"Always code as if the person maintaining your code will be a violent psychopath who knows where you live."</em>
+  <br/>— John F. Woods, 1991
 </p>
 
 <p align="center">
@@ -27,19 +21,9 @@
   </a>
 </p>
 
-<br/>
-
-<details>
-<summary><b>Who is this guy?</b> (click)</summary>
-<br/>
-
-> Founding engineer (3rd hire) at a cybersecurity startup where I helped build **Sentinelle** — a threat detection platform now deployed at a **national government agency**. I hold 3 Korean patents in ML-based security. Currently finishing my CS degree at Colgate.
-
-> I've built real-time collaborative tools, serverless pipelines, campus infrastructure apps, and AI-powered utilities. I care about writing code that works under pressure — the kind that survives building fires (literally, we recovered 100% of our data).
-
-</details>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -190,10 +174,6 @@ Benchmarking and analysis of large language models.
 ---
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=danielyj147&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=danielyj147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
