@@ -59,6 +59,30 @@ Founding engineer. ML threat detection processing 1M+ daily incidents at 95% acc
 <tr>
 <td width="50%" valign="top">
 
+### [LLM Eval](https://github.com/danielyj147/llm-eval)
+
+**Language model evaluation framework**
+
+Benchmarking and analysis of large language models.
+
+`Python` `Jupyter` `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mirage](https://github.com/danielyj147/mirage)
+
+**Market manipulation detection system**
+
+Detects spoofing, layering, and quote stuffing in NASDAQ data using statistical analysis + deep learning (TCN). Interactive dashboard with plain-English alert explanations.
+
+`Python` `FastAPI` `PyTorch` `Next.js` `D3.js` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Navgate](https://github.com/danielyj147/navgate)
 
 **Real-time campus parking & shuttle tracker**
@@ -69,15 +93,6 @@ Interactive map with live shuttle positions, time-aware parking availability, ge
 
 </td>
 <td width="50%" valign="top">
-
-### [LLM Eval](https://github.com/danielyj147/llm-eval)
-
-**Language model evaluation framework**
-
-Benchmarking and analysis of large language models.
-
-`Python` `Jupyter` `PyTorch`
-
 </td>
 </tr>
 </table>
