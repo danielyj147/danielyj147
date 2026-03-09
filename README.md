@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a href="https://repo-topography.danielyj.com">
+    <img src="https://img.shields.io/badge/repo%20topography-live%20demo-7B42BC?style=for-the-badge" alt="Repo Topography Demo" />
+  </a>&nbsp;
+  <a href="https://gazesplat.danielyj.com">
+    <img src="https://img.shields.io/badge/gazesplat-live%20demo-EE4C2C?style=for-the-badge" alt="GazeSplat Demo" />
+  </a>&nbsp;
   <a href="https://overwatch.danielyj.com">
     <img src="https://img.shields.io/badge/overwatch-live%20demo-f75c7e?style=for-the-badge" alt="Overwatch Demo" />
   </a>&nbsp;
@@ -59,15 +65,28 @@ Founding engineer. ML threat detection processing 1M+ daily incidents at 95% acc
 <tr>
 <td width="50%" valign="top">
 
-### [LLM Eval](https://github.com/danielyj147/llm-eval)
+### [Repo Topography](https://repo-topography.danielyj.com) &nbsp; [![Live](https://img.shields.io/badge/-live-7B42BC)](https://repo-topography.danielyj.com) [![Code](https://img.shields.io/badge/-code-181717?logo=github)](https://github.com/danielyj147/repo-topography)
 
-**Language model evaluation framework**
+**3D codebase terrain visualization**
 
-Benchmarking and analysis of large language models.
+Transforms any GitHub repo into navigable 3D terrain. Directory structure becomes geography, file size becomes elevation, languages become biomes, commit activity becomes heat. Instanced rendering handles 10K+ files at 60fps.
 
-`Python` `Jupyter` `PyTorch`
+`Next.js` `React Three Fiber` `Three.js` `GLSL` `TypeScript` `Zustand`
 
 </td>
+<td width="50%" valign="top">
+
+### [GazeSplat](https://gazesplat.danielyj.com) &nbsp; [![Live](https://img.shields.io/badge/-live-EE4C2C)](https://gazesplat.danielyj.com) [![Code](https://img.shields.io/badge/-code-181717?logo=github)](https://github.com/danielyj147/gazesplat)
+
+**Single-image 3D portrait with gaze tracking**
+
+Turns a selfie into an interactive 3D portrait via Gaussian Splatting. Real-time eye tracking follows the cursor with parallax. 100K–200K splats rendered at 30+ FPS with a custom WebGL2 pipeline — fully in-browser, no server.
+
+`React` `TypeScript` `WebGL2` `GLSL` `MediaPipe` `Transformers.js`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Mirage](https://github.com/danielyj147/mirage)
@@ -77,6 +96,17 @@ Benchmarking and analysis of large language models.
 Detects spoofing, layering, and quote stuffing in NASDAQ data using statistical analysis + deep learning (TCN). Interactive dashboard with plain-English alert explanations.
 
 `Python` `FastAPI` `PyTorch` `Next.js` `D3.js` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### [LLM Eval](https://github.com/danielyj147/llm-eval)
+
+**Language model evaluation framework**
+
+Benchmarking and analysis of large language models.
+
+`Python` `Jupyter` `PyTorch`
 
 </td>
 </tr>
@@ -142,6 +172,7 @@ Interactive map with live shuttle positions, time-aware parking availability, ge
 ![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000.svg?logo=three.js&logoColor=white)
 
 </td>
 </tr>
