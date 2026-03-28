@@ -224,3 +224,5 @@ Interactive map with live shuttle positions, time-aware parking availability, ge
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=danielyj147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
+
+![](https://pmyxcrvbfhfpcspmxozy.supabase.co/functions/v1/track-view)
