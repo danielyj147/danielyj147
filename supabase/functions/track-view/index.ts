@@ -23,19 +23,6 @@ async function hashIP(ip: string): Promise<string> {
 Deno.serve(async (req) => {
   const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "unknown";
   const userAgent = req.headers.get("user-agent");
-  const referer = req.headers.get("referer");
-  const acceptLanguage = req.headers.get("accept-language");
-
-  // Geo headers (available on some edge runtimes / proxies)
-  const country = req.headers.get("x-country")
-    ?? req.headers.get("cf-ipcountry")
-    ?? req.headers.get("x-vercel-ip-country");
-  const region = req.headers.get("x-region")
-    ?? req.headers.get("cf-region")
-    ?? req.headers.get("x-vercel-ip-country-region");
-  const city = req.headers.get("x-city")
-    ?? req.headers.get("cf-ipcity")
-    ?? req.headers.get("x-vercel-ip-city");
 
   // Capture all headers as JSON for maximum data retention
   const allHeaders: Record<string, string> = {};
@@ -53,11 +40,6 @@ Deno.serve(async (req) => {
     supabase.from("profile_views").insert({
       visitor_hash,
       user_agent: userAgent,
-      referer,
-      accept_language: acceptLanguage,
-      country,
-      region,
-      city,
       raw_ip: ip,
       headers: allHeaders,
     }).then(({ error }) => {
