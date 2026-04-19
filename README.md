@@ -19,6 +19,9 @@
   <a href="https://overwatch.danielyj.com">
     <img src="https://img.shields.io/badge/overwatch-live%20demo-f75c7e?style=for-the-badge" alt="Overwatch Demo" />
   </a>&nbsp;
+  <a href="https://secretary.danielyj.com/demo">
+    <img src="https://img.shields.io/badge/secretary-live%20demo-3B82F6?style=for-the-badge" alt="Secretary Demo" />
+  </a>&nbsp;
   <a href="https://www.code1.co.kr/products/sentinelle">
     <img src="https://img.shields.io/badge/sentinelle-product%20page-6DB33F?style=for-the-badge" alt="Sentinelle" />
   </a>&nbsp;
@@ -113,6 +116,17 @@ Benchmarking and analysis of large language models.
 <tr>
 <td width="50%" valign="top">
 
+### [Secretary](https://secretary.danielyj.com/demo) &nbsp; [![Live](https://img.shields.io/badge/-live-3B82F6)](https://secretary.danielyj.com/demo) [![Code](https://img.shields.io/badge/-code-181717?logo=github)](https://github.com/danielyj147/secretary)
+
+**AI secretary dashboard with Eisenhower matrix**
+
+Shared memory interface between a human and a Claude Code scheduled agent. The agent scans Gmail/Calendar twice daily, positions tasks on a 2D urgency x importance plane, auto-completes finished items, drafts emails, and proposes actions. Live urgency drift, focus mode, workload visualization.
+
+`Next.js` `Supabase` `Tailwind` `Claude Code` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
 ### [Navgate](https://github.com/danielyj147/navgate)
 
 **Real-time campus parking & shuttle tracker**
@@ -121,8 +135,6 @@ Interactive map with live shuttle positions, time-aware parking availability, ge
 
 `Next.js` `TypeScript` `React Leaflet` `Peak Transit API`
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
